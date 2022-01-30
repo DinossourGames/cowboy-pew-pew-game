@@ -245,7 +245,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @type {Array<string>}
 		 * @default
 		 */
-		args: [],
+		args: ["-s Application.cs"],
 		/**
 		 * When enabled, the game canvas will automatically grab the focus when the engine starts.
 		 *
